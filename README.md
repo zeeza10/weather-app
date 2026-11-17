@@ -1,4 +1,4 @@
-# 🌤️ Aether Weather • Modern Weather Forecast Application
+# 🌤️ Irtaza Weather App • Modern Weather Forecast Application
 
 A beautiful, premium, responsive Weather Forecast Web Application built with vanilla **HTML5**, **CSS3**, and **JavaScript (ES6+)**, powered by the completely free **[Open-Meteo Weather API](https://open-meteo.com)**.
 
@@ -113,7 +113,7 @@ This app is a static client-side web application, making it 100% free and easy t
 1. Log in to [Cloudflare Dashboard](https://dash.cloudflare.com/).
 2. Navigate to **Workers & Pages** > **Create application** > **Pages**.
 3. Choose **Direct Upload**:
-   - Give your project a name (e.g. `aether-weather`).
+   - Give your project a name (e.g. `irtaza-weather-app`).
    - Drag and drop the `weather-app` folder (or upload its zip).
    - Click **Deploy Site**.
 4. Your weather app is immediately live on `https://<your-project>.pages.dev` with free SSL and global CDN caching!
@@ -121,7 +121,7 @@ This app is a static client-side web application, making it 100% free and easy t
 #### Via Wrangler CLI:
 ```bash
 npm install -g wrangler
-wrangler pages deploy . --project-name=aether-weather
+wrangler pages deploy . --project-name=irtaza-weather-app
 ```
 
 ---
